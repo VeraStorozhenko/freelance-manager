@@ -1,5 +1,4 @@
 # Freelance OS Copilot
-![Uploading image.png…]()
 
 
 Freelance OS Copilot is a freelancer operations dashboard built with React and FastAPI. It combines project health signals, copilot workflows, direct write-back actions, and support for the official Notion MCP server.
